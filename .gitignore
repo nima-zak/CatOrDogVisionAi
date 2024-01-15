@@ -10,6 +10,7 @@ __pycache__/
 .Python
 .jpg
 *.jpg
+*.h5
 build/
 develop-eggs/
 dist/
